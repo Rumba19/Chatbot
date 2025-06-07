@@ -7,8 +7,8 @@ Then, follow these steps:
 
 1. **Clone the repository** and navigate into it:
    ```bash
-   git clone https://github.com/your-username/terminal-chatbot.git
-   cd terminal-chatbot
+   git clone https://github.com/Rumba19/Chatbot
+   cd Chatbot
 ---
 2. **Create and activate a virtual environment**:
     ````bash
