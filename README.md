@@ -18,7 +18,7 @@ Then, follow these steps:
 
 ---
 3. **Install the required dependencies**:
-       ````bash
+    ````bash
         pip install --upgrade pip setuptools wheel
         pip install chatterbot==1.2.6
         pip install chatterbot_corpus==1.2.2
