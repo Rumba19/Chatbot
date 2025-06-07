@@ -35,4 +35,5 @@ Then, follow these steps:
 
 ---
 5. **Sample Output**
-![alt text](image.png)
+
+    ![alt text](image.png)
