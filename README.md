@@ -18,6 +18,7 @@ Then, follow these steps:
 
 ---
 3. **Install the required dependencies**:
+       ````bash
         pip install --upgrade pip setuptools wheel
         pip install chatterbot==1.2.6
         pip install chatterbot_corpus==1.2.2
@@ -27,9 +28,11 @@ Then, follow these steps:
         python -m spacy download en_core_web_sm
 ---
 4. **Run the chatbot**:
+    ````bash
     python chatbot.py
 
-The bot will train on the English corpus and then start an interactive session.
+**The bot will train on the English corpus and then start an interactive session.**
+
 ---
 5. **Sample Output**
 ![alt text](image.png)
